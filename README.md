@@ -17,7 +17,7 @@
 - 🎓 Graduated with a B.Eng. in **Robotics Engineering and Artificial Intelligence** from **Chiang Mai University** (2026)
 - 🏭 Technical Engineer at **Entech Industrial Solution**
 - 🤖 Interested in **robot simulation**, **autonomous vehicles** and **agentic AI development**
-- 🗣️ Thai (native) · English (professional working proficiency)
+- 🗣️ Thai (native) · English (B1 Intermediate · EF SET 45/100)
 
 ### 💼 Experience
 
